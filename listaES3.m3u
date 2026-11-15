@@ -526,14 +526,6 @@ http://sfnooesvp.top:8080/heir001/Hehe321@espro/77043
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77044
 #EXTINF:-1 tvg-id="Betis TV" tvg-name="ES: BETIS TV HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/BETISTV.png" group-title="ES | DEPORTES OTROS",ES: BETIS TV HD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77045
-#EXTINF:-1 tvg-id="" tvg-name="ES: RALLY TV FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/RallyTv.png" group-title="ES | DEPORTES OTROS",ES: RALLY TV FHD
-http://sfnooesvp.top:8080/heir001/Hehe321@espro/77046
-#EXTINF:-1 tvg-id="MMA TV" tvg-name="ES: MMA TV FHD" tvg-logo="https://docdog.top/logo/countries/new/es/movistar/MMA_TV.png" group-title="ES | DEPORTES OTROS",ES: MMA TV FHD
-http://sfnooesvp.top:8080/heir001/Hehe321@espro/77047
-#EXTINF:-1 tvg-id="bbgea.movistarplus.es" tvg-name="ES: BBC TOP GEAR FHD" tvg-logo="https://docdog.top/logo/countries/new/es/movistar/BBC_TOP_GEAR.png" group-title="ES | DEPORTES OTROS",ES: BBC TOP GEAR FHD
-http://sfnooesvp.top:8080/heir001/Hehe321@espro/77048
-#EXTINF:-1 tvg-id="bbgea.movistarplus.es" tvg-name="ES: BBC TOP GEAR HD" tvg-logo="https://docdog.top/logo/countries/new/es/movistar/BBC_TOP_GEAR.png" group-title="ES | DEPORTES OTROS",ES: BBC TOP GEAR HD
-http://sfnooesvp.top:8080/heir001/Hehe321@espro/77049
 #EXTINF:-1 tvg-id="Horse TV" tvg-name="ES: HORSE TV FHD" tvg-logo="https://docdog.top/logo/countries/new/es/movistar/HORSE_TV.png" group-title="ES | DEPORTES OTROS",ES: HORSE TV FHD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77050
 #EXTINF:-1 tvg-id="Horse TV" tvg-name="ES: HORSE TV HD" tvg-logo="https://docdog.top/logo/countries/new/es/movistar/HORSE_TV.png" group-title="ES | DEPORTES OTROS",ES: HORSE TV HD
@@ -542,10 +534,6 @@ http://sfnooesvp.top:8080/heir001/Hehe321@espro/77051
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77052
 #EXTINF:-1 tvg-id="Nautica Channel" tvg-name="ES: NAUTICAL CHANNEL HD" tvg-logo="https://docdog.top/logo/countries/new/es/movistar/NAUTICAL_CHANNEL.png" group-title="ES | DEPORTES OTROS",ES: NAUTICAL CHANNEL HD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77053
-#EXTINF:-1 tvg-id="Moto ADV" tvg-name="ES: MOTO ADV FHD" tvg-logo="https://docdog.top/logo/countries/new/es/movistar/MOTO_ADV.png" group-title="ES | DEPORTES OTROS",ES: MOTO ADV FHD
-http://sfnooesvp.top:8080/heir001/Hehe321@espro/77054
-#EXTINF:-1 tvg-id="Moto ADV" tvg-name="ES: MOTO ADV HD" tvg-logo="https://docdog.top/logo/countries/new/es/movistar/MOTO_ADV.png" group-title="ES | DEPORTES OTROS",ES: MOTO ADV HD
-http://sfnooesvp.top:8080/heir001/Hehe321@espro/77055
 #EXTINF:-1 tvg-id="" tvg-name="ES: RUGBY SPAIN FHD" tvg-logo="https://docdog.top/logo/countries/new/es/movistar/RUGBY_SPAIN.png" group-title="ES | DEPORTES OTROS",ES: RUGBY SPAIN FHD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77056
 #EXTINF:-1 tvg-id="" tvg-name="ES: RUGBY SPAIN HD" tvg-logo="https://docdog.top/logo/countries/new/es/movistar/RUGBY_SPAIN.png" group-title="ES | DEPORTES OTROS",ES: RUGBY SPAIN HD
@@ -561,8 +549,25 @@ http://sfnooesvp.top:8080/heir001/Hehe321@espro/77061
 #EXTINF:-1 tvg-id="" tvg-name="ES: MYPADEL HD" tvg-logo="https://docdog.top/logo/countries/new/es/movistar/MYPADEL.png" group-title="ES | DEPORTES OTROS",ES: MYPADEL HD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77062
 
-#EXTINF:-1 tvg-id="" tvg-name="ES: UFC FIGHT PASS" tvg-logo="https://docdog.top/logo/countries/es/UFC_FIGHT_PASS.png" group-title="ES | UFC",ES: UFC FIGHT PASS
+#EXTINF:-1 tvg-id="" tvg-name="ES: RALLY TV FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/RallyTv.png" group-title="ES | CONDUCCION",ES: RALLY TV FHD
+http://sfnooesvp.top:8080/heir001/Hehe321@espro/77046
+#EXTINF:-1 tvg-id="bbgea.movistarplus.es" tvg-name="ES: BBC TOP GEAR FHD" tvg-logo="https://docdog.top/logo/countries/new/es/movistar/BBC_TOP_GEAR.png" group-title="ES | CONDUCCION",ES: BBC TOP GEAR FHD
+http://sfnooesvp.top:8080/heir001/Hehe321@espro/77048
+#EXTINF:-1 tvg-id="bbgea.movistarplus.es" tvg-name="ES: BBC TOP GEAR HD" tvg-logo="https://docdog.top/logo/countries/new/es/movistar/BBC_TOP_GEAR.png" group-title="ES | CONDUCCION",ES: BBC TOP GEAR HD
+http://sfnooesvp.top:8080/heir001/Hehe321@espro/77049
+#EXTINF:-1 tvg-id="Garage TV HD" tvg-name="ES: EL GARAGE TV HD" tvg-logo="https://docdog.top/logo/countries/new/es/EL_GARAGE_TV.png" group-title="ES | CONDUCCION",ES: EL GARAGE TV HD
+http://sfnooesvp.top:8080/heir001/Hehe321@espro/77168
+#EXTINF:-1 tvg-id="Garage TV" tvg-name="ES: EL GARAGE TV FHD" tvg-logo="https://docdog.top/logo/countries/new/es/EL_GARAGE_TV.png" group-title="ES | CONDUCCION",ES: EL GARAGE TV FHD
+http://sfnooesvp.top:8080/heir001/Hehe321@espro/77148
+#EXTINF:-1 tvg-id="Moto ADV" tvg-name="ES: MOTO ADV FHD" tvg-logo="https://docdog.top/logo/countries/new/es/movistar/MOTO_ADV.png" group-title="ES | CONDUCCION",ES: MOTO ADV FHD
+http://sfnooesvp.top:8080/heir001/Hehe321@espro/77054
+#EXTINF:-1 tvg-id="Moto ADV" tvg-name="ES: MOTO ADV HD" tvg-logo="https://docdog.top/logo/countries/new/es/movistar/MOTO_ADV.png" group-title="ES | CONDUCCION",ES: MOTO ADV HD
+http://sfnooesvp.top:8080/heir001/Hehe321@espro/77055
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: UFC FIGHT PASS" tvg-logo="https://docdog.top/logo/countries/es/UFC_FIGHT_PASS.png" group-title="ES | LUCHA",ES: UFC FIGHT PASS
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/78209
+#EXTINF:-1 tvg-id="MMA TV" tvg-name="ES: MMA TV FHD" tvg-logo="https://docdog.top/logo/countries/new/es/movistar/MMA_TV.png" group-title="ES | LUCHA",ES: MMA TV FHD
+http://sfnooesvp.top:8080/heir001/Hehe321@espro/77047
 
 #EXTINF:-1 tvg-id="" tvg-name="ES: LALIGA+ EVENTOS EPG" tvg-logo="https://docdog.top/logo/countries/new/es/other/LLPLUS.png" group-title="ES | LALIGA+ EVENT",ES: LALIGA+ EVENTOS EPG
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/78153
